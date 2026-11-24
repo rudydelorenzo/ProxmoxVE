@@ -1,3 +1,18 @@
+> [!WARNING]
+> **Not the official repo — personal fork only.**
+>
+> This is a personal fork of [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE),
+> created solely to develop and test contributions, for example:
+>
+> - Bump OpenResty from 1.31.8.1 → 1.31.9.1 in the Nginx Proxy Manager
+>   scripts and drop the nginx2root CVE hot-patch (CVE-2026-123007, CVE-2026-123633)
+> 
+> **Status:** not maintained — this fork lags upstream and will likely be neglected
+> once the relevant upstream PRs are merged
+>
+> **Do not use this fork's scripts for real installs.** Always run helper-scripts from
+> [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE).
+
 <div align="center">
   <a href=".github/assets/community-scripts.svg"><img src=".github/assets/community-scripts.png" width="112" height="112" alt="Community Scripts — Proxmox VE logo" /></a>
   <!-- Editable artwork: .github/assets/community-scripts.svg; PNG export: 512 × 512. -->
